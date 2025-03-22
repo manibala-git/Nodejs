@@ -1,5 +1,5 @@
 {
-  "name": "node-js",
+  "name": "nodejs",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,19 @@
   },
   "author": "",
   "license": "ISC",
-  "description": "",
+  "description": "\"# Nodejs\" \r \"# Nodejs\"",
   "dependencies": {
+    "cors": "^2.8.5",
     "date-fns": "^4.1.0",
     "express": "^4.21.2",
     "uuid": "^11.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manibala-git/Nodejs.git"
+  },
+  "bugs": {
+    "url": "https://github.com/manibala-git/Nodejs/issues"
+  },
+  "homepage": "https://github.com/manibala-git/Nodejs#readme"
 }
